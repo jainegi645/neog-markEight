@@ -8,6 +8,10 @@ const emojiDictionary = {
   "😑": "annoyance",
   "😂": " Joy",
   "😉 ": " Winking",
+  "🤮": "Vomiting",
+  "🥵 ": "Hot",
+  "🥶 ": "Cold ",
+  "😟": "Worried ",
 };
 
 const emojis = Object.keys(emojiDictionary);
